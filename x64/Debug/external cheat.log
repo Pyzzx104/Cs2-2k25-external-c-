@@ -1,0 +1,546 @@
+﻿  Cheat.cpp
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\handle_hijack.h(110,35): error C7525: variáveis embutidas exigem pelo menos '/std:c++17'
+  (compilando o arquivo fonte 'Cheat/Cheat.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\handle_hijack.h(116,16): error C7525: variáveis embutidas exigem pelo menos '/std:c++17'
+  (compilando o arquivo fonte 'Cheat/Cheat.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\handle_hijack.h(117,16): error C7525: variáveis embutidas exigem pelo menos '/std:c++17'
+  (compilando o arquivo fonte 'Cheat/Cheat.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\handle_hijack.h(118,16): error C7525: variáveis embutidas exigem pelo menos '/std:c++17'
+  (compilando o arquivo fonte 'Cheat/Cheat.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\handle_hijack.h(190,12): warning C4244: '*=': conversão de 'double' para 'DWORD', possível perda de dados
+  (compilando o arquivo fonte 'Cheat/Cheat.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\handle_hijack.h(232,29): warning C4312: 'conversão de tipo': conversão de 'ULONG' para 'DWORD *' de tamanho maior
+  (compilando o arquivo fonte 'Cheat/Cheat.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(33,30): error C2039: ' string_view': não é um membro de 'std'
+  (compilando o arquivo fonte 'Cheat/Cheat.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\iostream(18,1):
+      consulte a declaração de 'std'
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(33,30): error C2061: erro de sintaxe: identificador 'string_view'
+  (compilando o arquivo fonte 'Cheat/Cheat.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(80,31): error C2039: ' string_view': não é um membro de 'std'
+  (compilando o arquivo fonte 'Cheat/Cheat.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\iostream(18,1):
+      consulte a declaração de 'std'
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(80,31): error C2061: erro de sintaxe: identificador 'string_view'
+  (compilando o arquivo fonte 'Cheat/Cheat.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(107,14): error C2039: ' string_view': não é um membro de 'std'
+  (compilando o arquivo fonte 'Cheat/Cheat.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\iostream(18,1):
+      consulte a declaração de 'std'
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(107,14): error C2061: erro de sintaxe: identificador 'string_view'
+  (compilando o arquivo fonte 'Cheat/Cheat.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(137,25): error C2039: ' string_view': não é um membro de 'std'
+  (compilando o arquivo fonte 'Cheat/Cheat.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\iostream(18,1):
+      consulte a declaração de 'std'
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(137,25): error C2061: erro de sintaxe: identificador 'string_view'
+  (compilando o arquivo fonte 'Cheat/Cheat.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(170,32): error C2039: ' string_view': não é um membro de 'std'
+  (compilando o arquivo fonte 'Cheat/Cheat.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\iostream(18,1):
+      consulte a declaração de 'std'
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(170,21): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+  (compilando o arquivo fonte 'Cheat/Cheat.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(170,44): error C2146: erro de sintaxe: ')' ausente antes do identificador 'processName'
+  (compilando o arquivo fonte 'Cheat/Cheat.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(170,44): error C3646: 'processName': especificador de substituição desconhecido
+  (compilando o arquivo fonte 'Cheat/Cheat.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(170,55): error C2059: erro de sintaxe: ')'
+  (compilando o arquivo fonte 'Cheat/Cheat.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(46,10): error C2065: 'processName': identificador não declarado
+  (compilando o arquivo fonte 'Cheat/Cheat.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(67,12): error C2065: 'processName': identificador não declarado
+  (compilando o arquivo fonte 'Cheat/Cheat.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(95,11): error C2065: 'moduleName': identificador não declarado
+  (compilando o arquivo fonte 'Cheat/Cheat.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(112,28): error C2065: 'processName': identificador não declarado
+  (compilando o arquivo fonte 'Cheat/Cheat.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(139,24): error C2065: 'moduleName': identificador não declarado
+  (compilando o arquivo fonte 'Cheat/Cheat.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(172,23): error C2065: 'processName': identificador não declarado
+  (compilando o arquivo fonte 'Cheat/Cheat.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(182,3): error C2664: 'int GetWindowTextW(HWND,LPWSTR,int)': não é possível converter um argumento 2 de 'char [256]' em 'LPWSTR'
+  (compilando o arquivo fonte 'Cheat/Cheat.cpp')
+      C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(182,26):
+      Tipos apontados não são relacionados; conversão requer reinterpret_cast, conversão C-style ou conversão function-style entre parênteses
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(8950,1):
+      consulte a declaração de 'GetWindowTextW'
+      C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(182,3):
+      ao tentar corresponder a lista de argumentos '(HWND, char [256], size_t)'
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\Cheat\Cheat.h(8,15): error C7525: variáveis embutidas exigem pelo menos '/std:c++17'
+  (compilando o arquivo fonte 'Cheat/Cheat.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\Cheat\Cheat.h(8,18): error C2665: 'memify::memify': nenhuma função sobrecarregada pode converter todos os tipos de argumento
+  (compilando o arquivo fonte 'Cheat/Cheat.cpp')
+      C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(189,1):
+      poderia ser 'memify::memify(const memify &)'
+          C:\Users\la torre\source\repos\external cheat\external cheat\Cheat\Cheat.h(8,18):
+          'memify::memify(const memify &)': não é possível converter um argumento 1 de 'const char [8]' em 'const memify &'
+              C:\Users\la torre\source\repos\external cheat\external cheat\Cheat\Cheat.h(8,19):
+              Razão: não é possível converter de 'const char [8]' para 'const memify'
+      C:\Users\la torre\source\repos\external cheat\external cheat\Cheat\Cheat.h(8,18):
+      ao tentar corresponder a lista de argumentos '(const char [8])'
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\Cheat\Cheat.h(19,15): error C7525: variáveis embutidas exigem pelo menos '/std:c++17'
+  (compilando o arquivo fonte 'Cheat/Cheat.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\Cheat\Cheat.h(32,14): error C7525: variáveis embutidas exigem pelo menos '/std:c++17'
+  (compilando o arquivo fonte 'Cheat/Cheat.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\utils\globals.h(35,16): error C7525: variáveis embutidas exigem pelo menos '/std:c++17'
+  (compilando o arquivo fonte 'Cheat/Cheat.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\Math\Vector.h(7,22): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+  (compilando o arquivo fonte 'Cheat/Cheat.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\Math\Vector.h(7,16): warning C4244: 'inicializando': conversão de 'double' para 'const float', possível perda de dados
+  (compilando o arquivo fonte 'Cheat/Cheat.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\Math\Vector.h(86,11): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+  (compilando o arquivo fonte 'Cheat/Cheat.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\Math\Vector.h(87,11): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+  (compilando o arquivo fonte 'Cheat/Cheat.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\numbers(11): warning STL4038: The contents of <numbers> are available only with C++20 or later.
+C:\Users\la torre\source\repos\external cheat\external cheat\Math\Draw.h(23,59): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+  (compilando o arquivo fonte 'Cheat/Cheat.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\Math\Draw.h(23,56): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+  (compilando o arquivo fonte 'Cheat/Cheat.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\Math\Draw.h(23,79): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+  (compilando o arquivo fonte 'Cheat/Cheat.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\Math\Draw.h(23,72): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+  (compilando o arquivo fonte 'Cheat/Cheat.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\Math\Draw.h(23,105): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+  (compilando o arquivo fonte 'Cheat/Cheat.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\Render\Overlay.hpp(46,21): error C7525: variáveis embutidas exigem pelo menos '/std:c++17'
+  (compilando o arquivo fonte 'Cheat/Cheat.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\Render\Overlay.hpp(49,21): error C7525: variáveis embutidas exigem pelo menos '/std:c++17'
+  (compilando o arquivo fonte 'Cheat/Cheat.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\Render\Overlay.hpp(52,16): error C7525: variáveis embutidas exigem pelo menos '/std:c++17'
+  (compilando o arquivo fonte 'Cheat/Cheat.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\Cheat\Cheat.cpp(21,24): error C2660: 'memify::GetBase': função não recebe 1 argumentos
+      C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(137,12):
+      consulte a declaração de 'memify::GetBase'
+      C:\Users\la torre\source\repos\external cheat\external cheat\Cheat\Cheat.cpp(21,24):
+      ao tentar corresponder a lista de argumentos '(const char [11])'
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\Cheat\Cheat.cpp(184,44): warning C4244: 'argumento': conversão de 'float' para 'DWORD', possível perda de dados
+C:\Users\la torre\source\repos\external cheat\external cheat\Cheat\Cheat.cpp(184,35): warning C4244: 'argumento': conversão de 'float' para 'DWORD', possível perda de dados
+C:\Users\la torre\source\repos\external cheat\external cheat\Cheat\Cheat.cpp(260,4): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\la torre\source\repos\external cheat\external cheat\Cheat\Cheat.cpp(258,4): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\la torre\source\repos\external cheat\external cheat\Cheat\Cheat.cpp(257,4): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\la torre\source\repos\external cheat\external cheat\Cheat\Cheat.cpp(256,17): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\la torre\source\repos\external cheat\external cheat\Cheat\Cheat.cpp(255,20): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  Main.cpp
+C:\Users\la torre\source\repos\external cheat\external cheat\Render\Render.h(8,15): error C7525: variáveis embutidas exigem pelo menos '/std:c++17'
+  (compilando o arquivo fonte 'Main.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\handle_hijack.h(110,35): error C7525: variáveis embutidas exigem pelo menos '/std:c++17'
+  (compilando o arquivo fonte 'Main.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\handle_hijack.h(116,16): error C7525: variáveis embutidas exigem pelo menos '/std:c++17'
+  (compilando o arquivo fonte 'Main.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\handle_hijack.h(117,16): error C7525: variáveis embutidas exigem pelo menos '/std:c++17'
+  (compilando o arquivo fonte 'Main.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\handle_hijack.h(118,16): error C7525: variáveis embutidas exigem pelo menos '/std:c++17'
+  (compilando o arquivo fonte 'Main.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\handle_hijack.h(190,12): warning C4244: '*=': conversão de 'double' para 'DWORD', possível perda de dados
+  (compilando o arquivo fonte 'Main.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\handle_hijack.h(232,29): warning C4312: 'conversão de tipo': conversão de 'ULONG' para 'DWORD *' de tamanho maior
+  (compilando o arquivo fonte 'Main.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(33,30): error C2039: ' string_view': não é um membro de 'std'
+  (compilando o arquivo fonte 'Main.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\iostream(18,1):
+      consulte a declaração de 'std'
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(33,30): error C2061: erro de sintaxe: identificador 'string_view'
+  (compilando o arquivo fonte 'Main.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(80,31): error C2039: ' string_view': não é um membro de 'std'
+  (compilando o arquivo fonte 'Main.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\iostream(18,1):
+      consulte a declaração de 'std'
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(80,31): error C2061: erro de sintaxe: identificador 'string_view'
+  (compilando o arquivo fonte 'Main.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(107,14): error C2039: ' string_view': não é um membro de 'std'
+  (compilando o arquivo fonte 'Main.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\iostream(18,1):
+      consulte a declaração de 'std'
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(107,14): error C2061: erro de sintaxe: identificador 'string_view'
+  (compilando o arquivo fonte 'Main.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(137,25): error C2039: ' string_view': não é um membro de 'std'
+  (compilando o arquivo fonte 'Main.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\iostream(18,1):
+      consulte a declaração de 'std'
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(137,25): error C2061: erro de sintaxe: identificador 'string_view'
+  (compilando o arquivo fonte 'Main.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(170,32): error C2039: ' string_view': não é um membro de 'std'
+  (compilando o arquivo fonte 'Main.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\iostream(18,1):
+      consulte a declaração de 'std'
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(170,21): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+  (compilando o arquivo fonte 'Main.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(170,44): error C2146: erro de sintaxe: ')' ausente antes do identificador 'processName'
+  (compilando o arquivo fonte 'Main.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(170,44): error C3646: 'processName': especificador de substituição desconhecido
+  (compilando o arquivo fonte 'Main.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(170,55): error C2059: erro de sintaxe: ')'
+  (compilando o arquivo fonte 'Main.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(46,10): error C2065: 'processName': identificador não declarado
+  (compilando o arquivo fonte 'Main.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(67,12): error C2065: 'processName': identificador não declarado
+  (compilando o arquivo fonte 'Main.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(95,11): error C2065: 'moduleName': identificador não declarado
+  (compilando o arquivo fonte 'Main.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(112,28): error C2065: 'processName': identificador não declarado
+  (compilando o arquivo fonte 'Main.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(139,24): error C2065: 'moduleName': identificador não declarado
+  (compilando o arquivo fonte 'Main.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(172,23): error C2065: 'processName': identificador não declarado
+  (compilando o arquivo fonte 'Main.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(182,3): error C2664: 'int GetWindowTextW(HWND,LPWSTR,int)': não é possível converter um argumento 2 de 'char [256]' em 'LPWSTR'
+  (compilando o arquivo fonte 'Main.cpp')
+      C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(182,26):
+      Tipos apontados não são relacionados; conversão requer reinterpret_cast, conversão C-style ou conversão function-style entre parênteses
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(8950,1):
+      consulte a declaração de 'GetWindowTextW'
+      C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(182,3):
+      ao tentar corresponder a lista de argumentos '(HWND, char [256], size_t)'
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\Cheat\Cheat.h(8,15): error C7525: variáveis embutidas exigem pelo menos '/std:c++17'
+  (compilando o arquivo fonte 'Main.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\Cheat\Cheat.h(8,18): error C2665: 'memify::memify': nenhuma função sobrecarregada pode converter todos os tipos de argumento
+  (compilando o arquivo fonte 'Main.cpp')
+      C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(189,1):
+      poderia ser 'memify::memify(const memify &)'
+          C:\Users\la torre\source\repos\external cheat\external cheat\Cheat\Cheat.h(8,18):
+          'memify::memify(const memify &)': não é possível converter um argumento 1 de 'const char [8]' em 'const memify &'
+              C:\Users\la torre\source\repos\external cheat\external cheat\Cheat\Cheat.h(8,19):
+              Razão: não é possível converter de 'const char [8]' para 'const memify'
+      C:\Users\la torre\source\repos\external cheat\external cheat\Cheat\Cheat.h(8,18):
+      ao tentar corresponder a lista de argumentos '(const char [8])'
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\Cheat\Cheat.h(19,15): error C7525: variáveis embutidas exigem pelo menos '/std:c++17'
+  (compilando o arquivo fonte 'Main.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\Cheat\Cheat.h(32,14): error C7525: variáveis embutidas exigem pelo menos '/std:c++17'
+  (compilando o arquivo fonte 'Main.cpp')
+  
+  Overlay.cpp
+C:\Users\la torre\source\repos\external cheat\external cheat\Render\Overlay.hpp(46,21): error C7525: variáveis embutidas exigem pelo menos '/std:c++17'
+  (compilando o arquivo fonte 'Render/Overlay.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\Render\Overlay.hpp(49,21): error C7525: variáveis embutidas exigem pelo menos '/std:c++17'
+  (compilando o arquivo fonte 'Render/Overlay.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\Render\Overlay.hpp(52,16): error C7525: variáveis embutidas exigem pelo menos '/std:c++17'
+  (compilando o arquivo fonte 'Render/Overlay.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\Render\Render.h(8,15): error C7525: variáveis embutidas exigem pelo menos '/std:c++17'
+  (compilando o arquivo fonte 'Render/Overlay.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\handle_hijack.h(110,35): error C7525: variáveis embutidas exigem pelo menos '/std:c++17'
+  (compilando o arquivo fonte 'Render/Overlay.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\handle_hijack.h(116,16): error C7525: variáveis embutidas exigem pelo menos '/std:c++17'
+  (compilando o arquivo fonte 'Render/Overlay.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\handle_hijack.h(117,16): error C7525: variáveis embutidas exigem pelo menos '/std:c++17'
+  (compilando o arquivo fonte 'Render/Overlay.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\handle_hijack.h(118,16): error C7525: variáveis embutidas exigem pelo menos '/std:c++17'
+  (compilando o arquivo fonte 'Render/Overlay.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\handle_hijack.h(190,12): warning C4244: '*=': conversão de 'double' para 'DWORD', possível perda de dados
+  (compilando o arquivo fonte 'Render/Overlay.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\handle_hijack.h(232,29): warning C4312: 'conversão de tipo': conversão de 'ULONG' para 'DWORD *' de tamanho maior
+  (compilando o arquivo fonte 'Render/Overlay.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(33,30): error C2039: ' string_view': não é um membro de 'std'
+  (compilando o arquivo fonte 'Render/Overlay.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\iostream(18,1):
+      consulte a declaração de 'std'
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(33,30): error C2061: erro de sintaxe: identificador 'string_view'
+  (compilando o arquivo fonte 'Render/Overlay.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(80,31): error C2039: ' string_view': não é um membro de 'std'
+  (compilando o arquivo fonte 'Render/Overlay.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\iostream(18,1):
+      consulte a declaração de 'std'
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(80,31): error C2061: erro de sintaxe: identificador 'string_view'
+  (compilando o arquivo fonte 'Render/Overlay.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(107,14): error C2039: ' string_view': não é um membro de 'std'
+  (compilando o arquivo fonte 'Render/Overlay.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\iostream(18,1):
+      consulte a declaração de 'std'
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(107,14): error C2061: erro de sintaxe: identificador 'string_view'
+  (compilando o arquivo fonte 'Render/Overlay.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(137,25): error C2039: ' string_view': não é um membro de 'std'
+  (compilando o arquivo fonte 'Render/Overlay.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\iostream(18,1):
+      consulte a declaração de 'std'
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(137,25): error C2061: erro de sintaxe: identificador 'string_view'
+  (compilando o arquivo fonte 'Render/Overlay.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(170,32): error C2039: ' string_view': não é um membro de 'std'
+  (compilando o arquivo fonte 'Render/Overlay.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\iostream(18,1):
+      consulte a declaração de 'std'
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(170,21): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+  (compilando o arquivo fonte 'Render/Overlay.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(170,44): error C2146: erro de sintaxe: ')' ausente antes do identificador 'processName'
+  (compilando o arquivo fonte 'Render/Overlay.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(170,44): error C3646: 'processName': especificador de substituição desconhecido
+  (compilando o arquivo fonte 'Render/Overlay.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(170,55): error C2059: erro de sintaxe: ')'
+  (compilando o arquivo fonte 'Render/Overlay.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(46,10): error C2065: 'processName': identificador não declarado
+  (compilando o arquivo fonte 'Render/Overlay.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(67,12): error C2065: 'processName': identificador não declarado
+  (compilando o arquivo fonte 'Render/Overlay.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(95,11): error C2065: 'moduleName': identificador não declarado
+  (compilando o arquivo fonte 'Render/Overlay.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(112,28): error C2065: 'processName': identificador não declarado
+  (compilando o arquivo fonte 'Render/Overlay.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(139,24): error C2065: 'moduleName': identificador não declarado
+  (compilando o arquivo fonte 'Render/Overlay.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(172,23): error C2065: 'processName': identificador não declarado
+  (compilando o arquivo fonte 'Render/Overlay.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(182,3): error C2664: 'int GetWindowTextW(HWND,LPWSTR,int)': não é possível converter um argumento 2 de 'char [256]' em 'LPWSTR'
+  (compilando o arquivo fonte 'Render/Overlay.cpp')
+      C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(182,26):
+      Tipos apontados não são relacionados; conversão requer reinterpret_cast, conversão C-style ou conversão function-style entre parênteses
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(8950,1):
+      consulte a declaração de 'GetWindowTextW'
+      C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(182,3):
+      ao tentar corresponder a lista de argumentos '(HWND, char [256], size_t)'
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\Cheat\Cheat.h(8,15): error C7525: variáveis embutidas exigem pelo menos '/std:c++17'
+  (compilando o arquivo fonte 'Render/Overlay.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\Cheat\Cheat.h(8,18): error C2665: 'memify::memify': nenhuma função sobrecarregada pode converter todos os tipos de argumento
+  (compilando o arquivo fonte 'Render/Overlay.cpp')
+      C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(189,1):
+      poderia ser 'memify::memify(const memify &)'
+          C:\Users\la torre\source\repos\external cheat\external cheat\Cheat\Cheat.h(8,18):
+          'memify::memify(const memify &)': não é possível converter um argumento 1 de 'const char [8]' em 'const memify &'
+              C:\Users\la torre\source\repos\external cheat\external cheat\Cheat\Cheat.h(8,19):
+              Razão: não é possível converter de 'const char [8]' para 'const memify'
+      C:\Users\la torre\source\repos\external cheat\external cheat\Cheat\Cheat.h(8,18):
+      ao tentar corresponder a lista de argumentos '(const char [8])'
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\Cheat\Cheat.h(19,15): error C7525: variáveis embutidas exigem pelo menos '/std:c++17'
+  (compilando o arquivo fonte 'Render/Overlay.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\Cheat\Cheat.h(32,14): error C7525: variáveis embutidas exigem pelo menos '/std:c++17'
+  (compilando o arquivo fonte 'Render/Overlay.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\utils\globals.h(35,16): error C7525: variáveis embutidas exigem pelo menos '/std:c++17'
+  (compilando o arquivo fonte 'Render/Overlay.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\Render\Overlay.cpp(180,21): error C2440: '=': não é possível converter de 'const char [8]' para 'LPCWSTR'
+      C:\Users\la torre\source\repos\external cheat\external cheat\Render\Overlay.cpp(180,21):
+      Tipos apontados não são relacionados; conversão requer reinterpret_cast, conversão C-style ou conversão function-style entre parênteses
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\Render\Overlay.cpp(188,12): error C2664: 'HWND CreateWindowExW(DWORD,LPCWSTR,LPCWSTR,DWORD,int,int,int,int,HWND,HMENU,HINSTANCE,LPVOID)': não é possível converter um argumento 3 de 'const char [13]' em 'LPCWSTR'
+      C:\Users\la torre\source\repos\external cheat\external cheat\Render\Overlay.cpp(191,3):
+      Tipos apontados não são relacionados; conversão requer reinterpret_cast, conversão C-style ou conversão function-style entre parênteses
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(4437,1):
+      consulte a declaração de 'CreateWindowExW'
+      C:\Users\la torre\source\repos\external cheat\external cheat\Render\Overlay.cpp(188,12):
+      ao tentar corresponder a lista de argumentos '(long, LPCWSTR, const char [13], unsigned long, int, int, int, int, int, int, HINSTANCE, int)'
+  
+  Render.cpp
+C:\Users\la torre\source\repos\external cheat\external cheat\Render\Render.h(8,15): error C7525: variáveis embutidas exigem pelo menos '/std:c++17'
+  (compilando o arquivo fonte 'Render/Render.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\handle_hijack.h(110,35): error C7525: variáveis embutidas exigem pelo menos '/std:c++17'
+  (compilando o arquivo fonte 'Render/Render.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\handle_hijack.h(116,16): error C7525: variáveis embutidas exigem pelo menos '/std:c++17'
+  (compilando o arquivo fonte 'Render/Render.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\handle_hijack.h(117,16): error C7525: variáveis embutidas exigem pelo menos '/std:c++17'
+  (compilando o arquivo fonte 'Render/Render.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\handle_hijack.h(118,16): error C7525: variáveis embutidas exigem pelo menos '/std:c++17'
+  (compilando o arquivo fonte 'Render/Render.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\handle_hijack.h(190,12): warning C4244: '*=': conversão de 'double' para 'DWORD', possível perda de dados
+  (compilando o arquivo fonte 'Render/Render.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\handle_hijack.h(232,29): warning C4312: 'conversão de tipo': conversão de 'ULONG' para 'DWORD *' de tamanho maior
+  (compilando o arquivo fonte 'Render/Render.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(33,30): error C2039: ' string_view': não é um membro de 'std'
+  (compilando o arquivo fonte 'Render/Render.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\iostream(18,1):
+      consulte a declaração de 'std'
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(33,30): error C2061: erro de sintaxe: identificador 'string_view'
+  (compilando o arquivo fonte 'Render/Render.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(80,31): error C2039: ' string_view': não é um membro de 'std'
+  (compilando o arquivo fonte 'Render/Render.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\iostream(18,1):
+      consulte a declaração de 'std'
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(80,31): error C2061: erro de sintaxe: identificador 'string_view'
+  (compilando o arquivo fonte 'Render/Render.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(107,14): error C2039: ' string_view': não é um membro de 'std'
+  (compilando o arquivo fonte 'Render/Render.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\iostream(18,1):
+      consulte a declaração de 'std'
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(107,14): error C2061: erro de sintaxe: identificador 'string_view'
+  (compilando o arquivo fonte 'Render/Render.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(137,25): error C2039: ' string_view': não é um membro de 'std'
+  (compilando o arquivo fonte 'Render/Render.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\iostream(18,1):
+      consulte a declaração de 'std'
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(137,25): error C2061: erro de sintaxe: identificador 'string_view'
+  (compilando o arquivo fonte 'Render/Render.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(170,32): error C2039: ' string_view': não é um membro de 'std'
+  (compilando o arquivo fonte 'Render/Render.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\iostream(18,1):
+      consulte a declaração de 'std'
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(170,21): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+  (compilando o arquivo fonte 'Render/Render.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(170,44): error C2146: erro de sintaxe: ')' ausente antes do identificador 'processName'
+  (compilando o arquivo fonte 'Render/Render.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(170,44): error C3646: 'processName': especificador de substituição desconhecido
+  (compilando o arquivo fonte 'Render/Render.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(170,55): error C2059: erro de sintaxe: ')'
+  (compilando o arquivo fonte 'Render/Render.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(46,10): error C2065: 'processName': identificador não declarado
+  (compilando o arquivo fonte 'Render/Render.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(67,12): error C2065: 'processName': identificador não declarado
+  (compilando o arquivo fonte 'Render/Render.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(95,11): error C2065: 'moduleName': identificador não declarado
+  (compilando o arquivo fonte 'Render/Render.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(112,28): error C2065: 'processName': identificador não declarado
+  (compilando o arquivo fonte 'Render/Render.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(139,24): error C2065: 'moduleName': identificador não declarado
+  (compilando o arquivo fonte 'Render/Render.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(172,23): error C2065: 'processName': identificador não declarado
+  (compilando o arquivo fonte 'Render/Render.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(182,3): error C2664: 'int GetWindowTextW(HWND,LPWSTR,int)': não é possível converter um argumento 2 de 'char [256]' em 'LPWSTR'
+  (compilando o arquivo fonte 'Render/Render.cpp')
+      C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(182,26):
+      Tipos apontados não são relacionados; conversão requer reinterpret_cast, conversão C-style ou conversão function-style entre parênteses
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(8950,1):
+      consulte a declaração de 'GetWindowTextW'
+      C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(182,3):
+      ao tentar corresponder a lista de argumentos '(HWND, char [256], size_t)'
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\utils\globals.h(35,16): error C7525: variáveis embutidas exigem pelo menos '/std:c++17'
+  (compilando o arquivo fonte 'Render/Render.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\Render\Overlay.hpp(46,21): error C7525: variáveis embutidas exigem pelo menos '/std:c++17'
+  (compilando o arquivo fonte 'Render/Render.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\Render\Overlay.hpp(49,21): error C7525: variáveis embutidas exigem pelo menos '/std:c++17'
+  (compilando o arquivo fonte 'Render/Render.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\Render\Overlay.hpp(52,16): error C7525: variáveis embutidas exigem pelo menos '/std:c++17'
+  (compilando o arquivo fonte 'Render/Render.cpp')
+  
+  Gerando Código...

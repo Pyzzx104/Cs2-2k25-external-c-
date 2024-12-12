@@ -1,0 +1,62 @@
+﻿  Cheat.cpp
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\handle_hijack.h(190,12): warning C4244: '*=': conversão de 'double' para 'DWORD', possível perda de dados
+  (compilando o arquivo fonte 'Cheat/Cheat.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\handle_hijack.h(232,29): warning C4312: 'conversão de tipo': conversão de 'ULONG' para 'DWORD *' de tamanho maior
+  (compilando o arquivo fonte 'Cheat/Cheat.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\memory\memory.h(112,27): warning C4244: '=': conversão de 'uintptr_t' para 'DWORD', possível perda de dados
+  (compilando o arquivo fonte 'Cheat/Cheat.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\Math\Vector.h(7,22): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+  (compilando o arquivo fonte 'Cheat/Cheat.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\Math\Vector.h(7,16): warning C4244: 'inicializando': conversão de 'double' para 'const float', possível perda de dados
+  (compilando o arquivo fonte 'Cheat/Cheat.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\Math\Vector.h(90,17): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+  (compilando o arquivo fonte 'Cheat/Cheat.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\Math\Vector.h(91,17): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+  (compilando o arquivo fonte 'Cheat/Cheat.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\Math\Draw.h(19,68): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+  (compilando o arquivo fonte 'Cheat/Cheat.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\Math\Draw.h(19,61): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+  (compilando o arquivo fonte 'Cheat/Cheat.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\Math\Draw.h(19,48): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+  (compilando o arquivo fonte 'Cheat/Cheat.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\Math\Draw.h(19,45): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+  (compilando o arquivo fonte 'Cheat/Cheat.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\Math\Draw.h(20,62): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+  (compilando o arquivo fonte 'Cheat/Cheat.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\Math\Draw.h(20,55): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+  (compilando o arquivo fonte 'Cheat/Cheat.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\Math\Draw.h(20,42): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+  (compilando o arquivo fonte 'Cheat/Cheat.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\Math\Draw.h(20,39): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+  (compilando o arquivo fonte 'Cheat/Cheat.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\Math\Draw.h(43,24): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+  (compilando o arquivo fonte 'Cheat/Cheat.cpp')
+  
+C:\Users\la torre\source\repos\external cheat\external cheat\Cheat\Cheat.cpp(50,20): warning C4244: 'inicializando': conversão de 'LONG' para 'float', possível perda de dados
+C:\Users\la torre\source\repos\external cheat\external cheat\Cheat\Cheat.cpp(51,21): warning C4244: 'inicializando': conversão de 'LONG' para 'float', possível perda de dados
+C:\Users\la torre\source\repos\external cheat\external cheat\Cheat\Cheat.cpp(234,5): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\la torre\source\repos\external cheat\external cheat\Cheat\Cheat.cpp(233,5): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\la torre\source\repos\external cheat\external cheat\Cheat\Cheat.cpp(232,21): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\la torre\source\repos\external cheat\external cheat\Cheat\Cheat.cpp(231,21): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\la torre\source\repos\external cheat\external cheat\Cheat\Cheat.cpp(247,5): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+  Gerando código
+  0 of 1909 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finalizada a geração de código
+  external cheat.vcxproj -> C:\Users\la torre\source\repos\external cheat\x64\Release\external cheat.exe
